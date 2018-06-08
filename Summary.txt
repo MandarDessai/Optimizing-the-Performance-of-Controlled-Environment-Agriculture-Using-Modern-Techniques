@@ -1,0 +1,11 @@
+The project helps automate various agricultural processes like irrigation, fertigation, humidity control, 
+temperature control and day-night control within a greenhouse. The system has been developed taking 
+into consideration the requirements of Chrysanthemum plant. 
+Climatic conditions in Goa are not conducive to the growth of this plant all round the year. Thus, an
+ artificial environment is created that facilitates its growth. The automated irrigation system consists 
+of soil moisture sensors which monitor the soil moisture and notify the microcontroller to activate the 
+solenoid and irrigate the plants using drip pipes. Humidity control and temperature control is achieved 
+using humidity and temperature sensors respectively. Fertigation system is automated through the use 
+of software timers. Day-night control system manipulates the length of the day and night in accordance 
+with the plant requirements. Finally, an application will keep the farmer informed about the proceedings in the farm. 
+The entire project was conducted under the Directorate of Agriculture, Panjim-Goa.
